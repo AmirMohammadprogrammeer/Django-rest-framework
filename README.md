@@ -1,3 +1,5 @@
+blog api
+
 📰 Blog API with JWT Authentication
 
 This is a simple blog backend built with **Django** and **Django REST Framework**, featuring:
